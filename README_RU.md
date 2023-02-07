@@ -1,5 +1,8 @@
-# [TDPYTHON] (https://github.com/MiSTeR1995/docs_test)
+# [TDPYTHON][def]
 
-[Документация на английском](https://github.com/MiSTeR1995/docs_test)
+[Документация на английском][def]
 
 > Библиотека в разработке
+
+
+[def]: https://github.com/MiSTeR1995/docs_test
