@@ -1,0 +1,2 @@
+include test_docs_python/modules/locales/en/LC_MESSAGES/*.mo
+include test_docs_python/modules/locales/ru/LC_MESSAGES/*.mo
