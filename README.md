@@ -3,5 +3,4 @@
 | [Documentation in Russian][url] |
 |--------------------------------------------------------------------------------------------|
 
-
-[url]: https://github.com/MiSTeR1995/docs_test/blob/main/README_RU.md
+[url]: https://github.com/MiSTeR1995/docs_test/README_RU.md
