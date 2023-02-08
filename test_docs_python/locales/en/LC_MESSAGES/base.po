@@ -1,0 +1,49 @@
+# base English translation.
+# Copyright (C) 2022. Dmitry Ryumin, ...
+# Dmitry Ryumin <dl_03.03.1991@@mail.ru>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"POT-Creation-Date: 2022-12-22 15:58+0300\n"
+"PO-Revision-Date: 2022-12-22 15:58+0300\n"
+"Last-Translator: Dmitry Ryumin <dl_03.03.1991@mail.ru>\n"
+"Language-Team: English <dl_03.03.1991@mail.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: test_docs_python/modules/core/core.py:42
+msgid "Версии установленных библиотек"
+msgstr "Versions of installed libraries"
+
+#: test_docs_python/modules/core/core.py:43
+msgid "Пакет"
+msgstr "Package"
+
+#: test_docs_python/modules/core/messages.py:38
+msgid "TestDocs - библиотека для чего-то там ..."
+msgstr "TestDocs is a library for something out there ..."
+
+#: test_docs_python/modules/core/messages.py:39
+msgid "Авторы"
+msgstr "Authors"
+
+#: test_docs_python/modules/core/messages.py:39
+msgid "Версия"
+msgstr "Version"
+
+#: test_docs_python/modules/core/messages.py:39
+msgid "Лицензия"
+msgstr "License"
+
+#: test_docs_python/modules/core/messages.py:39
+msgid "Сопровождающие"
+msgstr "Maintainers"
+
+#: test_docs_python/modules/core/messages.py:46
+msgid "Неверные типы или значения аргументов в \"{}\""
+msgstr "Invalid argument types or values in \"{}\""
+
